@@ -117,3 +117,10 @@ header ul li a.active
     transition: all 0.6s;
     text-shadow: white;
 }
+header div p {
+  text-shadow: white 0 0 5px;
+  font-size: large;
+}
+header nav {
+  text-shadow: white 0 0 5px;
+}

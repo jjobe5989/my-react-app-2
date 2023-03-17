@@ -4,6 +4,9 @@
     border-radius: 20px;
     box-shadow: #D5F2EA 0 0 10px;
     color: #75BFB2;
+    margin-right: 50px;
+    margin-left: 50px;
+    text-align: center;
 }
 .job {
     margin: 50px auto;

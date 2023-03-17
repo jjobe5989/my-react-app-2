@@ -5,8 +5,34 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
+    align-items: center;
 }
 
 form {
-    display: inline-block;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 100px;
+    margin-left: 500px;
+    text-shadow: white 0 0 5px;
+    background: #2b1055;
+    opacity: 80%;
+    border-radius: 15px;
+    margin-right: 500px;
+    box-shadow: white 0 0 5px;
+    box-sizing: 100%;
+}
+
+button {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 10px;
+    border-radius: 5px;
+    
+}
+
+label  {
+margin-top: 5px;
+display: flex;
+flex-direction:row;
+margin: 5px;
 }
