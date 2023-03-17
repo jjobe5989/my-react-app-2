@@ -3,6 +3,7 @@
     opacity: 80%;
     border-radius: 20px;
     box-shadow: #D5F2EA 0 0 10px;
+    color: #75BFB2;
 }
 .job {
     margin: 50px auto;
@@ -16,6 +17,7 @@
 }
 .job-text {
     text-shadow: #D5F2EA 0 0 5px;
+    color: #75BFB2;
     font-size: large;
 }
 .job-text h4 {

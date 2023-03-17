@@ -1,10 +1,14 @@
-section {
+div {
     text-align: center;
-    margin-top: 40px;
-    /* color: white; */
-}
-section p {
-    font-size: large;
     text-shadow: white 0 0 5px;
+}
+
+div p {
+    font-size: large;
     display: block;
+}
+.AboutMe h2 {
+text-align: center;
+margin-top: 30px;
+display: flex;
 }
