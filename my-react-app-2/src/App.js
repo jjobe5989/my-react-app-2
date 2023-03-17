@@ -14,6 +14,9 @@ function App() {
       <div className="App">
         {/* Header */}
         <header>
+          <div className='Name'>
+            <p>Jonathan Jobe</p>
+          </div>
           <nav>
             <ul>
               <li>
