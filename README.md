@@ -8,6 +8,8 @@ This README contains the following information for the work I have done in this 
 
 - Screenshots of the final product
 
+- Instructions
+
 <h1>Description</h1>
 
 This is a screenshot of my single page multifuntional react app that contains an about me, resume, contact, and portfolio.
@@ -20,6 +22,9 @@ This is a screenshot of my single page multifuntional react app that contains an
 
 ![Screenshot (70)](https://user-images.githubusercontent.com/24994854/225777472-d8815e31-87fd-4287-994a-095a427a9cac.png)
 
+<h1>Instructions</h1>
+
+First you need to clone the repo onto your pc, then once in the vscode or whatever code editor you prefer, type npm install in the my-react-app-2 directory. Once installed you can type npm start in the same place your did your install and the application should render in a developement window.
 
 <h1>License</h1>
 
