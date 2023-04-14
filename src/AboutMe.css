@@ -1,45 +1,42 @@
-.about-me {
-    background-color: #f9f9f9;
-    padding: 30px;
-    margin-right: 50px;
-  }
-  
-  .section-title {
-    font-size: 36px;
-    font-weight: bold;
-    margin-bottom: 20px;
-    margin-top: 50px;
-    text-align: center;
-  }
-  
-  .secondary-border {
-    border-bottom: 2px solid #ccc;
-    padding-bottom: 10px;
-  }
-  .job-text-container {
-    position: relative;
-    margin-top: -80px;
-    z-index: 1;
-  }
-  .job-text {
-    margin-top: 20px;
-    font-size: 18px;
-    line-height: 1.5;
-    padding: 20px;
-    border-radius: 10px;
-    box-shadow: 0px 3px 10px rgba(0, 0, 0, 0.3);
-  }
-/* div {
-    text-align: center;
-    text-shadow: white 0 0 5px;
+.flex-row {
+  background-color:  #2a1055d5;
+  padding: 50px;
+  display: flex;
+  flex-direction: column;
+  width: 550px;
+  float: right;
+  margin-right: 500px;
+  margin-top: 40px;
+  border-radius: 25px;
+  box-shadow: whitesmoke 0 0 7px;
 }
 
-div p {
-    font-size: large;
-    display: block;
+.Name h1 {
+  display: flex;
+  float: left;
+  margin-left: 75px;
+  margin-top: 400px;
+  text-shadow: rgb(124, 122, 122) 0 0 7px;
+  font-size: 60px;
+  color: rgb(134, 131, 131);
 }
-.AboutMe h2 {
-text-align: center;
-margin-top: 30px;
-display: flex;
-} */
+
+.section-Title {
+  font-size: 36px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  margin-top: 50px;
+  text-align: center;
+}
+
+.second-border {
+  border-bottom: 2px solid #ccc;
+  padding-bottom: 10px;
+}
+
+.flex-row p {
+  font-size: 18px;
+  line-height: 1.5;
+  margin-top: 9px;
+  text-shadow: whitesmoke 0 0 3px;
+}

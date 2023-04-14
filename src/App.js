@@ -20,7 +20,7 @@ function App() {
           <nav>
             <ul>
               <li>
-                <Link to="/aboutme">About Me</Link>
+                <Link to="/">About Me</Link>
               </li>
               <li>
                 <Link to="/portfolio">Portfolio</Link>
@@ -38,7 +38,7 @@ function App() {
         {/* Main content */}
         <main>
           <Switch>
-            <Route exact path="/aboutme" component={AboutMe} />
+            <Route exact path="/" component={AboutMe} />
             <Route path="/portfolio" component={Portfolio} />
             <Route path="/contact" component={Contact} />
             <Route path="/resume" component={Resume} />

@@ -8,8 +8,8 @@ function Portfolio() {
   return (
     <div>
       <section id="work" className="jobs">
-        <div className="flex-row">
-          <h2 className="section-title secondary-border">My Work</h2>
+        <div className="Portfolio">
+          <h1 className="section-title secondary-border">My Work</h1>
         </div>
         <div className="job">
           <div className="job-info">

@@ -5,7 +5,7 @@ function Contact() {
   return (
     <section>
       <h2>Contact</h2>
-      <form>
+      <form className='Contact'>
         <label>
           Name:
           <input type="text" name="name" />
@@ -18,7 +18,7 @@ function Contact() {
           Message:
           <textarea name="message" />
         </label>
-        <button type="submit">Submit</button>
+        <button className='Submit' type="submit">Submit</button>
       </form>
     </section>
   );
